@@ -106,3 +106,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
    export default Something
    ```
+
+## Resources
+
+- [hoisting, classes and ForEach](https://replit.com/@sheyna/FuzzyAppropriatePlane#index.js)
