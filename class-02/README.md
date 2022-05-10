@@ -97,3 +97,4 @@ Today's class will focus on passing information as `props` from a parent compone
 
 - [Array map method and ternaries](https://replit.com/@sheyna/TomatoSpottedGame#index.js)
 - [Emoji Finder](https://emojifinder.com/)
+- [demo of warm up code](https://codepen.io/sheynaw/pen/BamXRRR)
