@@ -79,7 +79,7 @@ Today's class will focus on passing information as `props` from a parent compone
   }
 
   export default Parent
-  
+
   import React from 'react';
 
   class Child extends React.Component {
@@ -92,3 +92,8 @@ Today's class will focus on passing information as `props` from a parent compone
 
   export default Child
   ```
+
+## Resources
+
+- [Array map method and ternaries](https://replit.com/@sheyna/TomatoSpottedGame#index.js)
+- [Emoji Finder](https://emojifinder.com/)
