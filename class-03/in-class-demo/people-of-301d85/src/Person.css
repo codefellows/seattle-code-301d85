@@ -1,0 +1,10 @@
+article {
+  border: 1px solid gray;
+  padding: 1vw;
+  margin-bottom: 1vw;
+  width: 16%;
+}
+
+article img {
+  width: 100%;
+}
