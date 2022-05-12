@@ -1,9 +1,10 @@
 # Warm-Up Exercise
+
 Read through this code as if you are the interpreter. Find all of the mistakes in this code and write down the correct syntax for each mistake.
 
 ## app.js
 
-```
+```js
 import Header from './header.js';
 
 class App extends React.Component {
@@ -32,7 +33,7 @@ export App;
 
 ## header.js
 
-```
+```js
 class Header extends React.Component {
   render(){
     <h1>{title}</h1>
