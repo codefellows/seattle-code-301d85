@@ -93,4 +93,3 @@ Yesterday, you learned how to pass information from a parent component into a ch
 
 - [Intro to filter](https://replit.com/@sheyna/ShamelessAngryBlocks#index.js)
 - [Bootstrap classes cheat sheet](https://bootstrapshuffle.com/classes)
--
