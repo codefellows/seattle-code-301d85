@@ -91,3 +91,7 @@ Today we will use the skills we learned over the week to build a new application
     }
   }
   ```
+
+## Resorces
+
+- [Introdution to array reduce method](https://replit.com/@sheyna/MotionlessNearApache#index.js)
