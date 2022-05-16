@@ -48,7 +48,7 @@ Today we will explore third party APIs and how to request data from them.
 1. What is axios?
 1. Making a variable in an .env file: `PORT=3000`
 
-   - Common ways to get that wrong: 
+   - Common ways to get that wrong:
      - Spaces around the `=`
      - Adding a semicolon at the end of the line
      - Using something other than UPPERCASE
@@ -93,3 +93,7 @@ Today we will explore third party APIs and how to request data from them.
 
    - you can wrap a try/catch around any code you want
    - it says, "try to run this code - if it doesn't work, then run the code in the catch block"
+
+## Resources
+
+- [Pass by Value or Pass by Referencess](https://replit.com/@sheyna/ShorttermConventionalDriver#index.js)
