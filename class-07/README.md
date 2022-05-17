@@ -106,3 +106,14 @@ Today we will build our own custom Express server in Node.js. We will server our
        response.send(`you sent the city of ${city}`)
      });
      ```
+
+## Resources
+
+- Array & String methods
+- .split(), .join(), .slice() and .splice()
+
+- Split — takes a string and turns it into an array
+- Join — takes an array and puts it togethere into a string
+
+- Splice and slice — insert and cut things from any part of an array
+- Splice - will actually change the data
