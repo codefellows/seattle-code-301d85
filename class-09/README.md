@@ -78,7 +78,7 @@ Today we will dive a little bit deeper into Express and higher level programming
 
   module.exports = doSomething
   ```
-  
+
   - OR, it can be written like this
 
   ```javaScript
@@ -116,5 +116,10 @@ Today we will dive a little bit deeper into Express and higher level programming
   doesStuffObject.doSomething();
   doesStuffObject.doSomethingElse();
   ```
-  
+
   1. List of resources to help with lab or if I want to know more:
+
+## Resources
+
+- [Object.keys and Object.values ...](https://replit.com/@sheyna/HoarseRigidProfiles#index.js)
+- [Heroku CLI docs](https://devcenter.heroku.com/articles/git)
