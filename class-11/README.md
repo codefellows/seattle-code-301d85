@@ -104,3 +104,7 @@ fluffy.save();
 
 1. What resources can I use to help me with my lab and to learn more?
 [mongoose](https://mongoosejs.com/docs/)
+
+## Resources
+
+- [Chainting examples](https://replit.com/@sheyna/HoarseRigidProfiles#index.js) — see bottom of the file.
