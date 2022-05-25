@@ -28,9 +28,9 @@
 ```js
   let str = "My instructors shred";
   str.charCodeAt(0); // 77
-  
+
   'A'.charCodeAt(0); // 65
-  
+
 ```
 
 `fromCharCode` - Returns a letter from ASCII Code
@@ -42,3 +42,5 @@
 ## Reference and Resources
 
 - [Strings at MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+- [charAt, every and includes](https://replit.com/@sheyna/HungryTenderEvent#index.js)
