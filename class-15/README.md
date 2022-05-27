@@ -124,3 +124,9 @@ You will be assigned your project teams. For the next week of this course, you w
    export default Profile;
 
    ```
+
+## Resources
+
+- [Auth0](https://auth0.com/)
+- [Server: jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [Server: jwks-rsa](https://www.npmjs.com/package/jwks-rsa)
